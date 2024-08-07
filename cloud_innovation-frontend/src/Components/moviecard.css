@@ -1,0 +1,27 @@
+.movie-card{
+    border: 1px solid  black;
+    width: 250px;
+    padding: 20px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.movie-card img{
+    object-fit: contain;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 260px;
+    height: 350px;
+}
+
+.movie-name{
+    font-size: 20px;
+}
+
+.movie-name, .movie-year, .movie-type, .movie-rating{
+    padding: 0;
+    margin: 0;
+}

@@ -1,0 +1,11 @@
+.sidebar{
+    margin-left: 10px;
+    padding-left: 20px;
+    border: 1px solid black;
+    width: 250px;
+}
+
+.rating{
+    display: flex;
+    flex-direction: column;
+}

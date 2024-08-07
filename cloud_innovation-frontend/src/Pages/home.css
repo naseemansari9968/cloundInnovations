@@ -1,0 +1,15 @@
+.home-page{
+    display: flex;
+}
+.top-header span{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 20px;
+    
+}
+
+.top-header a{
+    padding-right: 20px;
+    text-decoration: none;
+}
